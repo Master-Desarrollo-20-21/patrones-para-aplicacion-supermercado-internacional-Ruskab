@@ -1,3 +1,5 @@
+![supermarket](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Master-Desarrollo-20-21/patrones-mastermind-undo-redo-Ruskab/main/puml/supermarket.puml&fmt=svg)
+
 # Patrones-dise-o-cadena-supermercados-internacional
 
 Práctica de la cadena de supermercados internacional en el curso de patrones de diseño.
