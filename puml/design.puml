@@ -53,6 +53,10 @@ class FraOperations {
 '-----------------------------------------------
 
 Ticket *-- "*" Line
+Ticket ..> RepeatLine
+Ticket ..> SoldLine
+Ticket ..> CancellationLine
+EspTicket ..> ReturnLine
 
 EspTicket -up-|> Ticket
 FraTicket -up-|> Ticket
